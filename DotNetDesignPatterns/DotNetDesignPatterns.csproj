@@ -48,6 +48,12 @@
     <Compile Include="Strategy\IFightingStrategy.cs" />
     <Compile Include="Strategy\MeleeStrategy.cs" />
     <Compile Include="Strategy\RangeStrategy.cs" />
+    <Compile Include="Template\Archer.cs" />
+    <Compile Include="Template\Barbarian.cs" />
+    <Compile Include="Template\Fighter.cs" />
+    <Compile Include="Template\Giant.cs" />
+    <Compile Include="Template\Troops.cs" />
+    <Compile Include="Template\TroopsTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />
